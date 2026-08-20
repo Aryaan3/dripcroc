@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Instagram, Facebook, Youtube, Truck, ShieldCheck, RefreshCw, CreditCard } from 'lucide-react';
+import { Instagram, Facebook, Youtube, Truck, ShieldCheck, RefreshCw, CreditCard } from 'lucide-react';
 import { BRAND_INFO } from '../../data/brandInfo';
 
 export const Footer: React.FC = () => {
